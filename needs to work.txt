@@ -1,0 +1,5 @@
+# simple-rocket-simulation
+simple rocket simulation in C
+SDL2.dll
+SDL2_ttf.dll
+arial font
